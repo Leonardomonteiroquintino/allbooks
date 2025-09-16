@@ -1,0 +1,16 @@
+## Descrição
+
+Explique as mudanças realizadas.
+
+## Tipo de mudança
+
+- [ ] Bug fix
+- [ ] Nova feature
+- [ ] Refatoração
+- [ ] Atualização de documentação
+
+## Checklist
+
+- [ ] Testes foram adicionados
+- [ ] Documentação atualizada
+- [ ] Código segue o padrão do projeto
